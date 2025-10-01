@@ -73,11 +73,11 @@ def doviz_json_to_df(json_data):
 
 # Step 1: Parameters (customize these)
 stock_symbol = 'TUPRS'  # e.g., 'AAPL' for Apple, 'GOOGL' for Google
-start_date = '01.01.2023 01:00:00'  # Example input in dd.mm.yyyy HH:MM:SS
+start_date = '01.01.2022 01:00:00'  # Example input in dd.mm.yyyy HH:MM:SS
 end_date = '22.09.2025 21:59:40'  # Example input in dd.mm.yyyy HH:MM:SS
-sequence_length = 60  # Number of past days to use for prediction
-prediction_days = 30  # Number of future days to predict
-epochs = 500  # Training epochs (increase for better results, but slower)
+sequence_length = 90  # Number of past days to use for prediction
+prediction_days = 15  # Number of future days to predict
+epochs = 1000  # Training epochs (increase for better results, but slower)
 batch_size = 32  # Batch size for training
 
 # Step 2: Fetch historical data

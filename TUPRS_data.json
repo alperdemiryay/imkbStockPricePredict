@@ -3,6 +3,2526 @@
     "data": {
         "archive": [
             {
+                "update_date": 1641157200,
+                "open": 16.167,
+                "highest": 17.4132,
+                "lowest": 16.0205,
+                "close": 17.4132,
+                "close_try": 17.4132,
+                "close_usd": 1.3324762976057,
+                "volume": 898211029
+            },
+            {
+                "update_date": 1641243600,
+                "open": 17.4969,
+                "highest": 18.2089,
+                "lowest": 17.2352,
+                "close": 17.7481,
+                "close_try": 17.7481,
+                "close_usd": 1.3237441730375,
+                "volume": 1218158176.6
+            },
+            {
+                "update_date": 1641330000,
+                "open": 17.7587,
+                "highest": 18.7535,
+                "lowest": 17.5913,
+                "close": 18.7326,
+                "close_try": 18.7326,
+                "close_usd": 1.3705443371378,
+                "volume": 1080954699.2
+            },
+            {
+                "update_date": 1641416400,
+                "open": 18.4707,
+                "highest": 19.8005,
+                "lowest": 18.3241,
+                "close": 19.5702,
+                "close_try": 19.5702,
+                "close_usd": 1.4138376956921,
+                "volume": 1242108210.6
+            },
+            {
+                "update_date": 1641502800,
+                "open": 19.6854,
+                "highest": 19.8633,
+                "lowest": 19.0781,
+                "close": 19.5702,
+                "close_try": 19.5702,
+                "close_usd": 1.417473055974,
+                "volume": 880587945.7
+            },
+            {
+                "update_date": 1641762000,
+                "open": 19.5806,
+                "highest": 20.0623,
+                "lowest": 19.4235,
+                "close": 19.5911,
+                "close_try": 19.5911,
+                "close_usd": 1.4175083931466,
+                "volume": 1037925561.3
+            },
+            {
+                "update_date": 1641848400,
+                "open": 19.8633,
+                "highest": 19.9471,
+                "lowest": 18.9001,
+                "close": 19.6121,
+                "close_try": 19.6121,
+                "close_usd": 1.4206107754936,
+                "volume": 976781811.4
+            },
+            {
+                "update_date": 1641934800,
+                "open": 19.9995,
+                "highest": 20.1041,
+                "lowest": 19.5806,
+                "close": 19.811,
+                "close_try": 19.811,
+                "close_usd": 1.4981434848038,
+                "volume": 712345646.5
+            },
+            {
+                "update_date": 1642021200,
+                "open": 19.654,
+                "highest": 20.366,
+                "lowest": 19.5388,
+                "close": 19.8005,
+                "close_try": 19.8005,
+                "close_usd": 1.4577412942649,
+                "volume": 905384056.3
+            },
+            {
+                "update_date": 1642107600,
+                "open": 19.8005,
+                "highest": 19.9784,
+                "lowest": 19.3398,
+                "close": 19.5388,
+                "close_try": 19.5388,
+                "close_usd": 1.4452630333156,
+                "volume": 612219222.9
+            },
+            {
+                "update_date": 1642366800,
+                "open": 19.7795,
+                "highest": 20.1985,
+                "lowest": 19.7586,
+                "close": 19.8005,
+                "close_try": 19.8005,
+                "close_usd": 1.4735255813953,
+                "volume": 721743663.8
+            },
+            {
+                "update_date": 1642453200,
+                "open": 19.7063,
+                "highest": 19.832,
+                "lowest": 18.722,
+                "close": 18.722,
+                "close_try": 18.722,
+                "close_usd": 1.3838012033054,
+                "volume": 537120547.7
+            },
+            {
+                "update_date": 1642539600,
+                "open": 18.5964,
+                "highest": 19.6329,
+                "lowest": 18.1042,
+                "close": 19.5597,
+                "close_try": 19.5597,
+                "close_usd": 1.4569608938547,
+                "volume": 1020849740.1
+            },
+            {
+                "update_date": 1642626000,
+                "open": 19.5806,
+                "highest": 19.7481,
+                "lowest": 18.6067,
+                "close": 18.8896,
+                "close_try": 18.8896,
+                "close_usd": 1.4115572294333,
+                "volume": 956737513.3
+            },
+            {
+                "update_date": 1642712400,
+                "open": 18.722,
+                "highest": 18.9943,
+                "lowest": 18.2927,
+                "close": 18.7639,
+                "close_try": 18.7639,
+                "close_usd": 1.3928383203308,
+                "volume": 912254007.4
+            },
+            {
+                "update_date": 1642971600,
+                "open": 18.6278,
+                "highest": 18.6278,
+                "lowest": 17.2457,
+                "close": 17.4237,
+                "close_try": 17.4237,
+                "close_usd": 1.2899946693517,
+                "volume": 1052114484.9
+            },
+            {
+                "update_date": 1643058000,
+                "open": 17.4446,
+                "highest": 17.7379,
+                "lowest": 16.9734,
+                "close": 17.5913,
+                "close_try": 17.5913,
+                "close_usd": 1.3052830748683,
+                "volume": 704261454.2
+            },
+            {
+                "update_date": 1643144400,
+                "open": 17.5913,
+                "highest": 17.8948,
+                "lowest": 17.4446,
+                "close": 17.4864,
+                "close_try": 17.4864,
+                "close_usd": 1.2867392216164,
+                "volume": 604040207.2
+            },
+            {
+                "update_date": 1643230800,
+                "open": 17.0676,
+                "highest": 18.0834,
+                "lowest": 17.0153,
+                "close": 18.0309,
+                "close_try": 18.0309,
+                "close_usd": 1.3209257007223,
+                "volume": 579216971.4
+            },
+            {
+                "update_date": 1643317200,
+                "open": 18.0623,
+                "highest": 18.3241,
+                "lowest": 17.5074,
+                "close": 17.6644,
+                "close_try": 17.6644,
+                "close_usd": 1.3066157760814,
+                "volume": 603171118.4
+            },
+            {
+                "update_date": 1643576400,
+                "open": 17.9786,
+                "highest": 18.1775,
+                "lowest": 17.832,
+                "close": 17.9262,
+                "close_try": 17.9262,
+                "close_usd": 1.3459927017164,
+                "volume": 528570670.2
+            },
+            {
+                "update_date": 1643662800,
+                "open": 18.01,
+                "highest": 18.1671,
+                "lowest": 17.5702,
+                "close": 17.7168,
+                "close_try": 17.7168,
+                "close_usd": 1.325264614579,
+                "volume": 400191042.5
+            },
+            {
+                "update_date": 1643749200,
+                "open": 17.8005,
+                "highest": 18.146,
+                "lowest": 17.7273,
+                "close": 17.7481,
+                "close_try": 17.7481,
+                "close_usd": 1.3172207007622,
+                "volume": 531903034.3
+            },
+            {
+                "update_date": 1643835600,
+                "open": 17.6959,
+                "highest": 18.1147,
+                "lowest": 17.3818,
+                "close": 17.5283,
+                "close_try": 17.5283,
+                "close_usd": 1.2917234721475,
+                "volume": 420162046.7
+            },
+            {
+                "update_date": 1643922000,
+                "open": 17.6959,
+                "highest": 17.9262,
+                "lowest": 17.3293,
+                "close": 17.3293,
+                "close_try": 17.3293,
+                "close_usd": 1.2777835127562,
+                "volume": 541322312.9
+            },
+            {
+                "update_date": 1644181200,
+                "open": 17.3503,
+                "highest": 17.9576,
+                "lowest": 16.9629,
+                "close": 17.9576,
+                "close_try": 17.9576,
+                "close_usd": 1.3212667019836,
+                "volume": 812735123.2
+            },
+            {
+                "update_date": 1644267600,
+                "open": 18.0623,
+                "highest": 19.3713,
+                "lowest": 17.9681,
+                "close": 19.2351,
+                "close_try": 19.2351,
+                "close_usd": 1.4184863166744,
+                "volume": 1422911052.3
+            },
+            {
+                "update_date": 1644354000,
+                "open": 19.3188,
+                "highest": 19.9681,
+                "lowest": 19.1199,
+                "close": 19.5283,
+                "close_try": 19.5283,
+                "close_usd": 1.442778828536,
+                "volume": 1359180185.5
+            },
+            {
+                "update_date": 1644440400,
+                "open": 19.5283,
+                "highest": 19.9995,
+                "lowest": 19.3608,
+                "close": 19.8948,
+                "close_try": 19.8948,
+                "close_usd": 1.4720423822243,
+                "volume": 1027984688.5
+            },
+            {
+                "update_date": 1644526800,
+                "open": 19.7377,
+                "highest": 20.701,
+                "lowest": 19.7168,
+                "close": 20.701,
+                "close_try": 20.701,
+                "close_usd": 1.5330667259128,
+                "volume": 1569905816.1
+            },
+            {
+                "update_date": 1644786000,
+                "open": 20.4183,
+                "highest": 20.7848,
+                "lowest": 19.9261,
+                "close": 20.2927,
+                "close_try": 20.2927,
+                "close_usd": 1.4929665543473,
+                "volume": 1507885582.7
+            },
+            {
+                "update_date": 1644872400,
+                "open": 20.3345,
+                "highest": 20.7218,
+                "lowest": 20.324,
+                "close": 20.3869,
+                "close_try": 20.3869,
+                "close_usd": 1.4996873643713,
+                "volume": 922156746.2
+            },
+            {
+                "update_date": 1644958800,
+                "open": 20.5021,
+                "highest": 20.8162,
+                "lowest": 20.1985,
+                "close": 20.4811,
+                "close_try": 20.4811,
+                "close_usd": 1.5063065845891,
+                "volume": 1080377057
+            },
+            {
+                "update_date": 1645045200,
+                "open": 20.6906,
+                "highest": 20.7638,
+                "lowest": 19.9576,
+                "close": 19.9995,
+                "close_try": 19.9995,
+                "close_usd": 1.472522051569,
+                "volume": 1448713437.4
+            },
+            {
+                "update_date": 1645131600,
+                "open": 20.1147,
+                "highest": 20.3345,
+                "lowest": 19.8633,
+                "close": 20.1356,
+                "close_try": 20.1356,
+                "close_usd": 1.4753733202421,
+                "volume": 727153760.3
+            },
+            {
+                "update_date": 1645390800,
+                "open": 20.3555,
+                "highest": 20.5963,
+                "lowest": 19.6434,
+                "close": 19.832,
+                "close_try": 19.832,
+                "close_usd": 1.4515538770073,
+                "volume": 799336094.8
+            },
+            {
+                "update_date": 1645477200,
+                "open": 19.5283,
+                "highest": 19.8215,
+                "lowest": 19.1513,
+                "close": 19.2769,
+                "close_try": 19.2769,
+                "close_usd": 1.3968768115942,
+                "volume": 990240042.4
+            },
+            {
+                "update_date": 1645563600,
+                "open": 19.4131,
+                "highest": 19.5493,
+                "lowest": 19.1513,
+                "close": 19.2561,
+                "close_try": 19.2561,
+                "close_usd": 1.3936426601819,
+                "volume": 588951457.2
+            },
+            {
+                "update_date": 1645650000,
+                "open": 17.8739,
+                "highest": 18.1147,
+                "lowest": 17.3398,
+                "close": 17.476,
+                "close_try": 17.476,
+                "close_usd": 1.2462383227555,
+                "volume": 685082673.6
+            },
+            {
+                "update_date": 1645736400,
+                "open": 17.9053,
+                "highest": 19.0153,
+                "lowest": 17.8005,
+                "close": 18.8372,
+                "close_try": 18.8372,
+                "close_usd": 1.3654597513682,
+                "volume": 808549889.5
+            },
+            {
+                "update_date": 1645995600,
+                "open": 18.6278,
+                "highest": 20.3137,
+                "lowest": 18.3555,
+                "close": 20.1985,
+                "close_try": 20.1985,
+                "close_usd": 1.4589442815249,
+                "volume": 1673701589.2
+            },
+            {
+                "update_date": 1646082000,
+                "open": 20.2927,
+                "highest": 20.4811,
+                "lowest": 19.8424,
+                "close": 20.2194,
+                "close_try": 20.2194,
+                "close_usd": 1.4550936987248,
+                "volume": 886335609.9
+            },
+            {
+                "update_date": 1646168400,
+                "open": 20.324,
+                "highest": 20.9943,
+                "lowest": 20.031,
+                "close": 20.1356,
+                "close_try": 20.1356,
+                "close_usd": 1.4290905477721,
+                "volume": 1245346278.2
+            },
+            {
+                "update_date": 1646254800,
+                "open": 20.4811,
+                "highest": 20.8582,
+                "lowest": 19.9051,
+                "close": 20.5857,
+                "close_try": 20.5857,
+                "close_usd": 1.4585098694931,
+                "volume": 1322270078.7
+            },
+            {
+                "update_date": 1646341200,
+                "open": 20.544,
+                "highest": 20.8162,
+                "lowest": 20.3869,
+                "close": 20.4707,
+                "close_try": 20.4707,
+                "close_usd": 1.4401584331162,
+                "volume": 926813530.5
+            },
+            {
+                "update_date": 1646600400,
+                "open": 20.7324,
+                "highest": 21.2455,
+                "lowest": 20.2194,
+                "close": 20.2194,
+                "close_try": 20.2194,
+                "close_usd": 1.4068409846788,
+                "volume": 1125083517.6
+            },
+            {
+                "update_date": 1646686800,
+                "open": 20.3137,
+                "highest": 20.5963,
+                "lowest": 20.2612,
+                "close": 20.4811,
+                "close_try": 20.4811,
+                "close_usd": 1.4173183120424,
+                "volume": 1004972037.1
+            },
+            {
+                "update_date": 1646773200,
+                "open": 20.7744,
+                "highest": 21.0047,
+                "lowest": 20.5021,
+                "close": 20.523,
+                "close_try": 20.523,
+                "close_usd": 1.4010308222685,
+                "volume": 1112175545.7
+            },
+            {
+                "update_date": 1646859600,
+                "open": 20.4811,
+                "highest": 21.633,
+                "lowest": 20.2822,
+                "close": 21.5596,
+                "close_try": 21.5596,
+                "close_usd": 1.4513851021576,
+                "volume": 2319129920.6
+            },
+            {
+                "update_date": 1646946000,
+                "open": 21.4654,
+                "highest": 21.5805,
+                "lowest": 20.9418,
+                "close": 21.455,
+                "close_try": 21.455,
+                "close_usd": 1.4530690199319,
+                "volume": 1199082840.8
+            },
+            {
+                "update_date": 1647205200,
+                "open": 21.4864,
+                "highest": 21.5386,
+                "lowest": 21.235,
+                "close": 21.235,
+                "close_try": 21.235,
+                "close_usd": 1.4367485571621,
+                "volume": 489381806.1
+            },
+            {
+                "update_date": 1647291600,
+                "open": 20.9418,
+                "highest": 21.1199,
+                "lowest": 20.3137,
+                "close": 20.3137,
+                "close_try": 20.3137,
+                "close_usd": 1.381639982044,
+                "volume": 977018332.1
+            },
+            {
+                "update_date": 1647378000,
+                "open": 20.523,
+                "highest": 20.6278,
+                "lowest": 20.01,
+                "close": 20.1041,
+                "close_try": 20.1041,
+                "close_usd": 1.3755328247409,
+                "volume": 820910561.6
+            },
+            {
+                "update_date": 1647464400,
+                "open": 20.188,
+                "highest": 20.9943,
+                "lowest": 20.188,
+                "close": 20.7638,
+                "close_try": 20.7638,
+                "close_usd": 1.4123304629365,
+                "volume": 1361539471.2
+            },
+            {
+                "update_date": 1647550800,
+                "open": 20.9628,
+                "highest": 21.0256,
+                "lowest": 20.523,
+                "close": 20.523,
+                "close_try": 20.523,
+                "close_usd": 1.3876643046465,
+                "volume": 621214615
+            },
+            {
+                "update_date": 1647810000,
+                "open": 20.8895,
+                "highest": 21.413,
+                "lowest": 20.8686,
+                "close": 21.3503,
+                "close_try": 21.3503,
+                "close_usd": 1.4399997302146,
+                "volume": 918177812.6
+            },
+            {
+                "update_date": 1647896400,
+                "open": 21.3815,
+                "highest": 21.811,
+                "lowest": 21.2769,
+                "close": 21.633,
+                "close_try": 21.633,
+                "close_usd": 1.4594900926307,
+                "volume": 1107824231.8
+            },
+            {
+                "update_date": 1647982800,
+                "open": 21.7167,
+                "highest": 21.9366,
+                "lowest": 21.434,
+                "close": 21.5386,
+                "close_try": 21.5386,
+                "close_usd": 1.4524843547691,
+                "volume": 867916316.9
+            },
+            {
+                "update_date": 1648069200,
+                "open": 21.5911,
+                "highest": 22.0203,
+                "lowest": 21.4968,
+                "close": 21.4968,
+                "close_try": 21.4968,
+                "close_usd": 1.4501153519246,
+                "volume": 1046739155.1
+            },
+            {
+                "update_date": 1648155600,
+                "open": 21.5702,
+                "highest": 21.8632,
+                "lowest": 21.5073,
+                "close": 21.6016,
+                "close_try": 21.6016,
+                "close_usd": 1.4565560395399,
+                "volume": 501206444.9
+            },
+            {
+                "update_date": 1648414800,
+                "open": 21.6016,
+                "highest": 21.9261,
+                "lowest": 21.2875,
+                "close": 21.4968,
+                "close_try": 21.4968,
+                "close_usd": 1.4509766864209,
+                "volume": 610591418.6
+            },
+            {
+                "update_date": 1648501200,
+                "open": 21.5805,
+                "highest": 22.0203,
+                "lowest": 21.3293,
+                "close": 21.612,
+                "close_try": 21.612,
+                "close_usd": 1.4830470674618,
+                "volume": 1434228817.2
+            },
+            {
+                "update_date": 1648587600,
+                "open": 21.7482,
+                "highest": 21.811,
+                "lowest": 21.5702,
+                "close": 21.612,
+                "close_try": 21.612,
+                "close_usd": 1.4749097460606,
+                "volume": 562547177.9
+            },
+            {
+                "update_date": 1648674000,
+                "open": 21.5805,
+                "highest": 22.5439,
+                "lowest": 21.5702,
+                "close": 22.4497,
+                "close_try": 22.4497,
+                "close_usd": 1.5301466779356,
+                "volume": 1352643915.2
+            },
+            {
+                "update_date": 1648760400,
+                "open": 22.4497,
+                "highest": 24.0832,
+                "lowest": 22.1461,
+                "close": 23.8109,
+                "close_try": 23.8109,
+                "close_usd": 1.6216092893384,
+                "volume": 2186565111.1
+            },
+            {
+                "update_date": 1649019600,
+                "open": 24.2926,
+                "highest": 25.392,
+                "lowest": 24.125,
+                "close": 25.3292,
+                "close_try": 25.3292,
+                "close_usd": 1.7255869088333,
+                "volume": 2026261292.7
+            },
+            {
+                "update_date": 1649106000,
+                "open": 25.4443,
+                "highest": 25.8947,
+                "lowest": 24.9522,
+                "close": 25.235,
+                "close_try": 25.235,
+                "close_usd": 1.7151498674641,
+                "volume": 1755744812.1
+            },
+            {
+                "update_date": 1649192400,
+                "open": 25.1616,
+                "highest": 25.9574,
+                "lowest": 25.1093,
+                "close": 25.2036,
+                "close_try": 25.2036,
+                "close_usd": 1.7138427433887,
+                "volume": 1593476178.5
+            },
+            {
+                "update_date": 1649278800,
+                "open": 25.3396,
+                "highest": 25.4339,
+                "lowest": 24.8999,
+                "close": 24.9627,
+                "close_try": 24.9627,
+                "close_usd": 1.6938793512927,
+                "volume": 1211011065.8
+            },
+            {
+                "update_date": 1649365200,
+                "open": 25.1512,
+                "highest": 25.6747,
+                "lowest": 25.1302,
+                "close": 25.5701,
+                "close_try": 25.5701,
+                "close_usd": 1.7343421463163,
+                "volume": 1171709139.8
+            },
+            {
+                "update_date": 1649624400,
+                "open": 25.5701,
+                "highest": 25.8423,
+                "lowest": 25.193,
+                "close": 25.8317,
+                "close_try": 25.8317,
+                "close_usd": 1.7618008334413,
+                "volume": 1291917429.9
+            },
+            {
+                "update_date": 1649710800,
+                "open": 25.8632,
+                "highest": 26.6381,
+                "lowest": 25.7062,
+                "close": 26.523,
+                "close_try": 26.523,
+                "close_usd": 1.816818051046,
+                "volume": 1774365073.8
+            },
+            {
+                "update_date": 1649797200,
+                "open": 26.9102,
+                "highest": 27.6433,
+                "lowest": 26.795,
+                "close": 26.8265,
+                "close_try": 26.8265,
+                "close_usd": 1.838161735484,
+                "volume": 1895925692.2
+            },
+            {
+                "update_date": 1649883600,
+                "open": 27.1197,
+                "highest": 27.371,
+                "lowest": 26.6381,
+                "close": 27.1406,
+                "close_try": 27.1406,
+                "close_usd": 1.8584742222861,
+                "volume": 1168968233.1
+            },
+            {
+                "update_date": 1649970000,
+                "open": 27.1721,
+                "highest": 27.5281,
+                "lowest": 27.1197,
+                "close": 27.193,
+                "close_try": 27.193,
+                "close_usd": 1.8584228043438,
+                "volume": 706257743.6
+            },
+            {
+                "update_date": 1650229200,
+                "open": 27.2348,
+                "highest": 27.4548,
+                "lowest": 26.2716,
+                "close": 26.3343,
+                "close_try": 26.3343,
+                "close_usd": 1.7992088326524,
+                "volume": 1807743119.1
+            },
+            {
+                "update_date": 1650315600,
+                "open": 26.4181,
+                "highest": 26.9941,
+                "lowest": 26.4077,
+                "close": 26.7846,
+                "close_try": 26.7846,
+                "close_usd": 1.8282878615163,
+                "volume": 2198019587.2
+            },
+            {
+                "update_date": 1650402000,
+                "open": 26.8579,
+                "highest": 27.1197,
+                "lowest": 26.4915,
+                "close": 26.6485,
+                "close_try": 26.6485,
+                "close_usd": 1.8163693742204,
+                "volume": 1554854919.7
+            },
+            {
+                "update_date": 1650488400,
+                "open": 26.6485,
+                "highest": 27.0988,
+                "lowest": 26.6485,
+                "close": 26.9626,
+                "close_try": 26.9626,
+                "close_usd": 1.8338661189177,
+                "volume": 1091558016.3
+            },
+            {
+                "update_date": 1650574800,
+                "open": 27.0778,
+                "highest": 27.3919,
+                "lowest": 26.2401,
+                "close": 26.5961,
+                "close_try": 26.5961,
+                "close_usd": 1.8040182598846,
+                "volume": 1777485638.7
+            },
+            {
+                "update_date": 1650834000,
+                "open": 26.3868,
+                "highest": 27.3606,
+                "lowest": 26.0935,
+                "close": 27.1617,
+                "close_try": 27.1617,
+                "close_usd": 1.8392640695572,
+                "volume": 1407728004
+            },
+            {
+                "update_date": 1650920400,
+                "open": 27.1197,
+                "highest": 27.1197,
+                "lowest": 25.392,
+                "close": 25.6537,
+                "close_try": 25.6537,
+                "close_usd": 1.7335220899274,
+                "volume": 1860569567.1
+            },
+            {
+                "update_date": 1651006800,
+                "open": 25.6537,
+                "highest": 25.8842,
+                "lowest": 25.193,
+                "close": 25.7062,
+                "close_try": 25.7062,
+                "close_usd": 1.7359201534264,
+                "volume": 1266564447
+            },
+            {
+                "update_date": 1651093200,
+                "open": 25.7689,
+                "highest": 26.083,
+                "lowest": 24.9208,
+                "close": 24.9208,
+                "close_try": 24.9208,
+                "close_usd": 1.6850219072862,
+                "volume": 1015565088.8
+            },
+            {
+                "update_date": 1651179600,
+                "open": 25.0569,
+                "highest": 25.1827,
+                "lowest": 24.3973,
+                "close": 24.523,
+                "close_try": 24.523,
+                "close_usd": 1.6514138332761,
+                "volume": 1428747270.1
+            },
+            {
+                "update_date": 1651698000,
+                "open": 25.4862,
+                "highest": 26.1773,
+                "lowest": 25.392,
+                "close": 25.6852,
+                "close_try": 25.6852,
+                "close_usd": 1.728362828881,
+                "volume": 1425874484.8
+            },
+            {
+                "update_date": 1651784400,
+                "open": 25.4757,
+                "highest": 26.7218,
+                "lowest": 25.392,
+                "close": 26.7218,
+                "close_try": 26.7218,
+                "close_usd": 1.7885359356385,
+                "volume": 1967333124
+            },
+            {
+                "update_date": 1652043600,
+                "open": 26.3763,
+                "highest": 26.5333,
+                "lowest": 25.4548,
+                "close": 25.6852,
+                "close_try": 25.6852,
+                "close_usd": 1.702698044415,
+                "volume": 2125252717.9
+            },
+            {
+                "update_date": 1652130000,
+                "open": 25.8109,
+                "highest": 26.3239,
+                "lowest": 25.5071,
+                "close": 25.7062,
+                "close_try": 25.7062,
+                "close_usd": 1.6860615362416,
+                "volume": 1378600336.6
+            },
+            {
+                "update_date": 1652216400,
+                "open": 25.8109,
+                "highest": 26.3868,
+                "lowest": 25.5071,
+                "close": 26.3658,
+                "close_try": 26.3658,
+                "close_usd": 1.7230972329329,
+                "volume": 1942928798
+            },
+            {
+                "update_date": 1652302800,
+                "open": 26.0726,
+                "highest": 26.6799,
+                "lowest": 25.6537,
+                "close": 26.4181,
+                "close_try": 26.4181,
+                "close_usd": 1.7172451898076,
+                "volume": 2009238718
+            },
+            {
+                "update_date": 1652389200,
+                "open": 26.6066,
+                "highest": 27.0045,
+                "lowest": 26.4495,
+                "close": 26.8265,
+                "close_try": 26.8265,
+                "close_usd": 1.7332579550961,
+                "volume": 1265030646.8
+            },
+            {
+                "update_date": 1652648400,
+                "open": 26.9102,
+                "highest": 27.4338,
+                "lowest": 26.8685,
+                "close": 26.8789,
+                "close_try": 26.8789,
+                "close_usd": 1.729536519294,
+                "volume": 1189599518.6
+            },
+            {
+                "update_date": 1652734800,
+                "open": 27.0673,
+                "highest": 27.2872,
+                "lowest": 26.7428,
+                "close": 26.9102,
+                "close_try": 26.9102,
+                "close_usd": 1.6922419051572,
+                "volume": 950360708.1
+            },
+            {
+                "update_date": 1652821200,
+                "open": 26.9102,
+                "highest": 27.0988,
+                "lowest": 26.2821,
+                "close": 26.2821,
+                "close_try": 26.2821,
+                "close_usd": 1.6489798223159,
+                "volume": 795969362.2
+            },
+            {
+                "update_date": 1652994000,
+                "open": 26.1459,
+                "highest": 26.481,
+                "lowest": 25.9678,
+                "close": 25.9678,
+                "close_try": 25.9678,
+                "close_usd": 1.6359936495136,
+                "volume": 603860613.6
+            },
+            {
+                "update_date": 1653253200,
+                "open": 26.1773,
+                "highest": 26.2088,
+                "lowest": 25.3396,
+                "close": 26.0308,
+                "close_try": 26.0308,
+                "close_usd": 1.6345255437786,
+                "volume": 820499892.4
+            },
+            {
+                "update_date": 1653339600,
+                "open": 26.0413,
+                "highest": 26.2611,
+                "lowest": 25.5491,
+                "close": 25.5909,
+                "close_try": 25.5909,
+                "close_usd": 1.5918896726757,
+                "volume": 591115927.8
+            },
+            {
+                "update_date": 1653426000,
+                "open": 25.6643,
+                "highest": 26.2088,
+                "lowest": 25.6643,
+                "close": 26.1144,
+                "close_try": 26.1144,
+                "close_usd": 1.595786025934,
+                "volume": 611049428
+            },
+            {
+                "update_date": 1653512400,
+                "open": 26.1144,
+                "highest": 27.015,
+                "lowest": 25.9051,
+                "close": 26.7114,
+                "close_try": 26.7114,
+                "close_usd": 1.6338446858485,
+                "volume": 972334803.5
+            },
+            {
+                "update_date": 1653598800,
+                "open": 26.6485,
+                "highest": 26.8265,
+                "lowest": 26.1982,
+                "close": 26.2192,
+                "close_try": 26.2192,
+                "close_usd": 1.6193587835292,
+                "volume": 732364095.7
+            },
+            {
+                "update_date": 1653858000,
+                "open": 26.5543,
+                "highest": 27.3186,
+                "lowest": 26.5543,
+                "close": 27.1197,
+                "close_try": 27.1197,
+                "close_usd": 1.6553965792975,
+                "volume": 1066809029.6
+            },
+            {
+                "update_date": 1653944400,
+                "open": 28.062,
+                "highest": 29.3186,
+                "lowest": 28.0202,
+                "close": 28.3867,
+                "close_try": 28.3867,
+                "close_usd": 1.7313819729924,
+                "volume": 3170179602.8
+            },
+            {
+                "update_date": 1654030800,
+                "open": 28.6903,
+                "highest": 29.0567,
+                "lowest": 28.3239,
+                "close": 28.4181,
+                "close_try": 28.4181,
+                "close_usd": 1.7336355095716,
+                "volume": 1177247416.3
+            },
+            {
+                "update_date": 1654117200,
+                "open": 28.481,
+                "highest": 28.5542,
+                "lowest": 28.0935,
+                "close": 28.3762,
+                "close_try": 28.3762,
+                "close_usd": 1.7245776103075,
+                "volume": 936045877.6
+            },
+            {
+                "update_date": 1654203600,
+                "open": 28.481,
+                "highest": 28.9521,
+                "lowest": 28.4495,
+                "close": 28.7218,
+                "close_try": 28.7218,
+                "close_usd": 1.7498035249752,
+                "volume": 1095066597
+            },
+            {
+                "update_date": 1654462800,
+                "open": 28.8998,
+                "highest": 29.7899,
+                "lowest": 28.8998,
+                "close": 29.4757,
+                "close_try": 29.4757,
+                "close_usd": 1.77849445497,
+                "volume": 1035436544.1
+            },
+            {
+                "update_date": 1654549200,
+                "open": 29.5804,
+                "highest": 29.9992,
+                "lowest": 29.1719,
+                "close": 29.9887,
+                "close_try": 29.9887,
+                "close_usd": 1.7899213331583,
+                "volume": 873341484.9
+            },
+            {
+                "update_date": 1654635600,
+                "open": 30.1667,
+                "highest": 30.8474,
+                "lowest": 28.2715,
+                "close": 28.3971,
+                "close_try": 28.3971,
+                "close_usd": 1.6581086288844,
+                "volume": 1221522093.1
+            },
+            {
+                "update_date": 1654722000,
+                "open": 28.4495,
+                "highest": 29.1825,
+                "lowest": 28.3239,
+                "close": 29.1825,
+                "close_try": 29.1825,
+                "close_usd": 1.704824274431,
+                "volume": 1036942915.6
+            },
+            {
+                "update_date": 1654808400,
+                "open": 28.8998,
+                "highest": 29.2662,
+                "lowest": 28.1144,
+                "close": 28.1668,
+                "close_try": 28.1668,
+                "close_usd": 1.6461801009912,
+                "volume": 707001723.1
+            },
+            {
+                "update_date": 1655067600,
+                "open": 28.104,
+                "highest": 28.6799,
+                "lowest": 28.0098,
+                "close": 28.4391,
+                "close_try": 28.4391,
+                "close_usd": 1.6475355702832,
+                "volume": 686477443
+            },
+            {
+                "update_date": 1655154000,
+                "open": 28.6171,
+                "highest": 28.659,
+                "lowest": 27.6433,
+                "close": 28.3133,
+                "close_try": 28.3133,
+                "close_usd": 1.639962698238,
+                "volume": 698203480.1
+            },
+            {
+                "update_date": 1655240400,
+                "open": 28.3133,
+                "highest": 28.4391,
+                "lowest": 27.9155,
+                "close": 27.9993,
+                "close_try": 27.9993,
+                "close_usd": 1.6243060269061,
+                "volume": 515557077.2
+            },
+            {
+                "update_date": 1655326800,
+                "open": 28.0412,
+                "highest": 28.303,
+                "lowest": 27.2977,
+                "close": 27.6223,
+                "close_try": 27.6223,
+                "close_usd": 1.5968216529948,
+                "volume": 606212319.1
+            },
+            {
+                "update_date": 1655413200,
+                "open": 27.6328,
+                "highest": 28.4705,
+                "lowest": 27.5699,
+                "close": 28.104,
+                "close_try": 28.104,
+                "close_usd": 1.6221645021645,
+                "volume": 796172600.5
+            },
+            {
+                "update_date": 1655672400,
+                "open": 28.2086,
+                "highest": 28.3552,
+                "lowest": 26.9208,
+                "close": 27.2663,
+                "close_try": 27.2663,
+                "close_usd": 1.5732130905398,
+                "volume": 1256951172.6
+            },
+            {
+                "update_date": 1655758800,
+                "open": 27.4966,
+                "highest": 28.1668,
+                "lowest": 27.2872,
+                "close": 27.9888,
+                "close_try": 27.9888,
+                "close_usd": 1.614285219919,
+                "volume": 851839556.6
+            },
+            {
+                "update_date": 1655845200,
+                "open": 27.7374,
+                "highest": 28.0098,
+                "lowest": 27.371,
+                "close": 27.9051,
+                "close_try": 27.9051,
+                "close_usd": 1.6093092192528,
+                "volume": 723802343.3
+            },
+            {
+                "update_date": 1655931600,
+                "open": 27.9155,
+                "highest": 28.5228,
+                "lowest": 27.7479,
+                "close": 27.9155,
+                "close_try": 27.9155,
+                "close_usd": 1.6087307304423,
+                "volume": 939580277.4
+            },
+            {
+                "update_date": 1656018000,
+                "open": 28.0202,
+                "highest": 28.303,
+                "lowest": 27.6956,
+                "close": 27.9469,
+                "close_try": 27.9469,
+                "close_usd": 1.6551905901305,
+                "volume": 663794275.6
+            },
+            {
+                "update_date": 1656277200,
+                "open": 27.1826,
+                "highest": 28.6171,
+                "lowest": 27.0673,
+                "close": 28.5751,
+                "close_try": 28.5751,
+                "close_usd": 1.7291100635971,
+                "volume": 986717496.8
+            },
+            {
+                "update_date": 1656363600,
+                "open": 28.7846,
+                "highest": 29.2034,
+                "lowest": 27.6328,
+                "close": 27.9783,
+                "close_try": 27.9783,
+                "close_usd": 1.6771349102636,
+                "volume": 1122148888.1
+            },
+            {
+                "update_date": 1656450000,
+                "open": 27.8213,
+                "highest": 28.4285,
+                "lowest": 27.2663,
+                "close": 27.4653,
+                "close_try": 27.4653,
+                "close_usd": 1.650737459581,
+                "volume": 931336659.7
+            },
+            {
+                "update_date": 1656536400,
+                "open": 27.4757,
+                "highest": 27.926,
+                "lowest": 26.9522,
+                "close": 27.6956,
+                "close_try": 27.6956,
+                "close_usd": 1.6585780673597,
+                "volume": 1144300169.8
+            },
+            {
+                "update_date": 1656622800,
+                "open": 27.6956,
+                "highest": 28.6903,
+                "lowest": 27.5805,
+                "close": 28.1144,
+                "close_try": 28.1144,
+                "close_usd": 1.6780208302247,
+                "volume": 1077338807
+            },
+            {
+                "update_date": 1656882000,
+                "open": 28.2715,
+                "highest": 28.7637,
+                "lowest": 27.6852,
+                "close": 27.6956,
+                "close_try": 27.6956,
+                "close_usd": 1.6459806729981,
+                "volume": 1017183639.3
+            },
+            {
+                "update_date": 1656968400,
+                "open": 27.7689,
+                "highest": 27.9155,
+                "lowest": 26.5124,
+                "close": 26.7218,
+                "close_try": 26.7218,
+                "close_usd": 1.5743246825935,
+                "volume": 676116553.8
+            },
+            {
+                "update_date": 1657054800,
+                "open": 26.7218,
+                "highest": 26.7846,
+                "lowest": 25.4025,
+                "close": 25.6328,
+                "close_try": 25.6328,
+                "close_usd": 1.4889372948796,
+                "volume": 1235333313.1
+            },
+            {
+                "update_date": 1657141200,
+                "open": 25.7584,
+                "highest": 25.8632,
+                "lowest": 24.9522,
+                "close": 25.6119,
+                "close_try": 25.6119,
+                "close_usd": 1.4832001389854,
+                "volume": 1252048469.3
+            },
+            {
+                "update_date": 1657227600,
+                "open": 25.5176,
+                "highest": 25.7898,
+                "lowest": 25.371,
+                "close": 25.4548,
+                "close_try": 25.4548,
+                "close_usd": 1.4735391846989,
+                "volume": 238039657.9
+            },
+            {
+                "update_date": 1657659600,
+                "open": 25.1197,
+                "highest": 25.1197,
+                "lowest": 24.1878,
+                "close": 24.4182,
+                "close_try": 24.4182,
+                "close_usd": 1.4014198887735,
+                "volume": 782703937.8
+            },
+            {
+                "update_date": 1657746000,
+                "open": 24.4287,
+                "highest": 24.6381,
+                "lowest": 23.8422,
+                "close": 23.8527,
+                "close_try": 23.8527,
+                "close_usd": 1.3685638877733,
+                "volume": 611828079.7
+            },
+            {
+                "update_date": 1658091600,
+                "open": 24.5019,
+                "highest": 25.4967,
+                "lowest": 24.4182,
+                "close": 25.4967,
+                "close_try": 25.4967,
+                "close_usd": 1.4626041164728,
+                "volume": 885996926
+            },
+            {
+                "update_date": 1658178000,
+                "open": 25.3396,
+                "highest": 26.2192,
+                "lowest": 25.193,
+                "close": 25.6119,
+                "close_try": 25.6119,
+                "close_usd": 1.4585696712909,
+                "volume": 972816980.8
+            },
+            {
+                "update_date": 1658264400,
+                "open": 25.6223,
+                "highest": 26.6485,
+                "lowest": 25.4025,
+                "close": 26.6485,
+                "close_try": 26.6485,
+                "close_usd": 1.5139730821455,
+                "volume": 871774456.8
+            },
+            {
+                "update_date": 1658350800,
+                "open": 26.701,
+                "highest": 26.8056,
+                "lowest": 25.9993,
+                "close": 26.083,
+                "close_try": 26.083,
+                "close_usd": 1.4728003704164,
+                "volume": 804186973.7
+            },
+            {
+                "update_date": 1658437200,
+                "open": 26.3868,
+                "highest": 26.6276,
+                "lowest": 25.8317,
+                "close": 25.9783,
+                "close_try": 25.9783,
+                "close_usd": 1.4660357447193,
+                "volume": 655693778.4
+            },
+            {
+                "update_date": 1658696400,
+                "open": 25.9155,
+                "highest": 26.523,
+                "lowest": 25.8842,
+                "close": 26.4915,
+                "close_try": 26.4915,
+                "close_usd": 1.4906229427023,
+                "volume": 456561037.3
+            },
+            {
+                "update_date": 1658782800,
+                "open": 26.8161,
+                "highest": 27.7164,
+                "lowest": 26.8056,
+                "close": 26.9941,
+                "close_try": 26.9941,
+                "close_usd": 1.5115970433419,
+                "volume": 790083489.8
+            },
+            {
+                "update_date": 1658869200,
+                "open": 27.1617,
+                "highest": 27.2768,
+                "lowest": 26.7323,
+                "close": 26.9522,
+                "close_try": 26.9522,
+                "close_usd": 1.507469615361,
+                "volume": 685519110.9
+            },
+            {
+                "update_date": 1658955600,
+                "open": 27.2244,
+                "highest": 27.5699,
+                "lowest": 26.9102,
+                "close": 26.9417,
+                "close_try": 26.9417,
+                "close_usd": 1.5032501408859,
+                "volume": 919370089.5
+            },
+            {
+                "update_date": 1659042000,
+                "open": 26.9626,
+                "highest": 28.104,
+                "lowest": 26.8056,
+                "close": 28.104,
+                "close_try": 28.104,
+                "close_usd": 1.568933946675,
+                "volume": 1270105251.9
+            },
+            {
+                "update_date": 1659301200,
+                "open": 28.1354,
+                "highest": 28.7951,
+                "lowest": 27.9573,
+                "close": 28.5857,
+                "close_try": 28.5857,
+                "close_usd": 1.596422448216,
+                "volume": 1164601048.9
+            },
+            {
+                "update_date": 1659387600,
+                "open": 28.638,
+                "highest": 28.8788,
+                "lowest": 28.1144,
+                "close": 28.3552,
+                "close_try": 28.3552,
+                "close_usd": 1.5800818036934,
+                "volume": 1065992913.1
+            },
+            {
+                "update_date": 1659474000,
+                "open": 28.5857,
+                "highest": 28.774,
+                "lowest": 28.4285,
+                "close": 28.5857,
+                "close_try": 28.5857,
+                "close_usd": 1.5945523815899,
+                "volume": 729908231.4
+            },
+            {
+                "update_date": 1659560400,
+                "open": 28.7951,
+                "highest": 28.994,
+                "lowest": 28.3133,
+                "close": 28.3133,
+                "close_try": 28.3133,
+                "close_usd": 1.5809095731316,
+                "volume": 975964698.2
+            },
+            {
+                "update_date": 1659646800,
+                "open": 28.4285,
+                "highest": 28.5123,
+                "lowest": 27.8213,
+                "close": 28.1668,
+                "close_try": 28.1668,
+                "close_usd": 1.5724924911513,
+                "volume": 902581854.2
+            },
+            {
+                "update_date": 1659906000,
+                "open": 28.3867,
+                "highest": 28.7846,
+                "lowest": 28.3448,
+                "close": 28.638,
+                "close_try": 28.638,
+                "close_usd": 1.5954673084637,
+                "volume": 1037860066.8
+            },
+            {
+                "update_date": 1659992400,
+                "open": 28.7112,
+                "highest": 29.8421,
+                "lowest": 28.6275,
+                "close": 29.8107,
+                "close_try": 29.8107,
+                "close_usd": 1.6655045840806,
+                "volume": 1872201541.3
+            },
+            {
+                "update_date": 1660078800,
+                "open": 29.8421,
+                "highest": 30.0725,
+                "lowest": 29.6223,
+                "close": 29.7689,
+                "close_try": 29.7689,
+                "close_usd": 1.6659522077341,
+                "volume": 960565133.2
+            },
+            {
+                "update_date": 1660165200,
+                "open": 30.062,
+                "highest": 31.2348,
+                "lowest": 30.0515,
+                "close": 30.5751,
+                "close_try": 30.5751,
+                "close_usd": 1.7044876797859,
+                "volume": 1741097967.8
+            },
+            {
+                "update_date": 1660251600,
+                "open": 30.8474,
+                "highest": 30.9939,
+                "lowest": 30.4913,
+                "close": 30.7427,
+                "close_try": 30.7427,
+                "close_usd": 1.7143948561518,
+                "volume": 1064607663.9
+            },
+            {
+                "update_date": 1660510800,
+                "open": 30.9939,
+                "highest": 31.0987,
+                "lowest": 29.6432,
+                "close": 30.104,
+                "close_try": 30.104,
+                "close_usd": 1.6763466068237,
+                "volume": 1119913345.6
+            },
+            {
+                "update_date": 1660597200,
+                "open": 31.4128,
+                "highest": 31.6222,
+                "lowest": 30.2086,
+                "close": 31.4023,
+                "close_try": 31.4023,
+                "close_usd": 1.7529572008329,
+                "volume": 4731487096.8
+            },
+            {
+                "update_date": 1660683600,
+                "open": 31.5489,
+                "highest": 32.1144,
+                "lowest": 31.1615,
+                "close": 31.9887,
+                "close_try": 31.9887,
+                "close_usd": 1.7823087937865,
+                "volume": 2297772693
+            },
+            {
+                "update_date": 1660770000,
+                "open": 32.0306,
+                "highest": 34.596,
+                "lowest": 31.905,
+                "close": 34.4493,
+                "close_try": 34.4493,
+                "close_usd": 1.9054870291498,
+                "volume": 3156159147.9
+            },
+            {
+                "update_date": 1660856400,
+                "open": 34.4599,
+                "highest": 35.6327,
+                "lowest": 34.1353,
+                "close": 34.2294,
+                "close_try": 34.2294,
+                "close_usd": 1.8926537427981,
+                "volume": 2998227594.5
+            },
+            {
+                "update_date": 1661115600,
+                "open": 33.5384,
+                "highest": 34.7006,
+                "lowest": 33.2034,
+                "close": 33.842,
+                "close_try": 33.842,
+                "close_usd": 1.87332550982,
+                "volume": 2113234876.3
+            },
+            {
+                "update_date": 1661202000,
+                "open": 33.842,
+                "highest": 35.7478,
+                "lowest": 33.8105,
+                "close": 35.6954,
+                "close_try": 35.6954,
+                "close_usd": 1.9710761143261,
+                "volume": 2144655027.6
+            },
+            {
+                "update_date": 1661288400,
+                "open": 35.8629,
+                "highest": 36.6063,
+                "lowest": 35.3708,
+                "close": 35.7058,
+                "close_try": 35.7058,
+                "close_usd": 1.9679122574956,
+                "volume": 2056000670.8
+            },
+            {
+                "update_date": 1661374800,
+                "open": 35.9676,
+                "highest": 36.8368,
+                "lowest": 35.7687,
+                "close": 36.5015,
+                "close_try": 36.5015,
+                "close_usd": 2.0096293074496,
+                "volume": 1668979884.6
+            },
+            {
+                "update_date": 1661461200,
+                "open": 36.6377,
+                "highest": 37.0357,
+                "lowest": 35.6327,
+                "close": 35.9885,
+                "close_try": 35.9885,
+                "close_usd": 1.9812219237206,
+                "volume": 1737254367.1
+            },
+            {
+                "update_date": 1661720400,
+                "open": 35.8106,
+                "highest": 38.0828,
+                "lowest": 35.6535,
+                "close": 37.8105,
+                "close_try": 37.8105,
+                "close_usd": 2.0782536524234,
+                "volume": 2208043004.4
+            },
+            {
+                "update_date": 1661893200,
+                "open": 38.0095,
+                "highest": 38.1142,
+                "lowest": 37.0671,
+                "close": 37.622,
+                "close_try": 37.622,
+                "close_usd": 2.0687796938237,
+                "volume": 1984307647.6
+            },
+            {
+                "update_date": 1661979600,
+                "open": 37.3183,
+                "highest": 37.3183,
+                "lowest": 35.486,
+                "close": 35.486,
+                "close_try": 35.486,
+                "close_usd": 1.9501874017652,
+                "volume": 2263136440.6
+            },
+            {
+                "update_date": 1662066000,
+                "open": 35.7267,
+                "highest": 36.2923,
+                "lowest": 35.2451,
+                "close": 35.2661,
+                "close_try": 35.2661,
+                "close_usd": 1.9376978021978,
+                "volume": 1695091857
+            },
+            {
+                "update_date": 1662325200,
+                "open": 35.3918,
+                "highest": 35.8944,
+                "lowest": 35.0358,
+                "close": 35.3393,
+                "close_try": 35.3393,
+                "close_usd": 1.9400462238618,
+                "volume": 2460290539.8
+            },
+            {
+                "update_date": 1662411600,
+                "open": 35.6012,
+                "highest": 36.3655,
+                "lowest": 35.0777,
+                "close": 35.1614,
+                "close_try": 35.1614,
+                "close_usd": 1.9283003553723,
+                "volume": 2640433100.9
+            },
+            {
+                "update_date": 1662498000,
+                "open": 35.151,
+                "highest": 35.6848,
+                "lowest": 34.3761,
+                "close": 35.4651,
+                "close_try": 35.4651,
+                "close_usd": 1.9470164863218,
+                "volume": 2023178093.4
+            },
+            {
+                "update_date": 1662584400,
+                "open": 35.7373,
+                "highest": 36.3027,
+                "lowest": 34.9939,
+                "close": 35.1299,
+                "close_try": 35.1299,
+                "close_usd": 1.9277780826428,
+                "volume": 1999427859.1
+            },
+            {
+                "update_date": 1662670800,
+                "open": 35.444,
+                "highest": 35.8419,
+                "lowest": 35.0252,
+                "close": 35.109,
+                "close_try": 35.109,
+                "close_usd": 1.9253949886754,
+                "volume": 1492501534.8
+            },
+            {
+                "update_date": 1662930000,
+                "open": 35.2975,
+                "highest": 35.8001,
+                "lowest": 34.9415,
+                "close": 35.2975,
+                "close_try": 35.2975,
+                "close_usd": 1.9378153290402,
+                "volume": 2379219489.7
+            },
+            {
+                "update_date": 1663016400,
+                "open": 35.8315,
+                "highest": 36.2818,
+                "lowest": 34.4074,
+                "close": 34.4913,
+                "close_try": 34.4913,
+                "close_usd": 1.8899549584105,
+                "volume": 2872320250
+            },
+            {
+                "update_date": 1663102800,
+                "open": 34.5017,
+                "highest": 35.7058,
+                "lowest": 33.2242,
+                "close": 35.6744,
+                "close_try": 35.6744,
+                "close_usd": 1.9570135498382,
+                "volume": 1671305259.1
+            },
+            {
+                "update_date": 1663189200,
+                "open": 35.7582,
+                "highest": 36.5854,
+                "lowest": 35.0777,
+                "close": 35.0777,
+                "close_try": 35.0777,
+                "close_usd": 1.9204557275271,
+                "volume": 1743533088.8
+            },
+            {
+                "update_date": 1663275600,
+                "open": 35.1823,
+                "highest": 35.9153,
+                "lowest": 34.8472,
+                "close": 34.8472,
+                "close_try": 34.8472,
+                "close_usd": 1.9088498871579,
+                "volume": 1437983162.7
+            },
+            {
+                "update_date": 1663534800,
+                "open": 34.9729,
+                "highest": 35.2032,
+                "lowest": 32.617,
+                "close": 32.617,
+                "close_try": 32.617,
+                "close_usd": 1.7829440414564,
+                "volume": 1104688139.2
+            },
+            {
+                "update_date": 1663621200,
+                "open": 32.7217,
+                "highest": 33.5906,
+                "lowest": 31.6431,
+                "close": 32.0933,
+                "close_try": 32.0933,
+                "close_usd": 1.7519324409896,
+                "volume": 1792503700
+            },
+            {
+                "update_date": 1663707600,
+                "open": 32.3552,
+                "highest": 33.3917,
+                "lowest": 31.8841,
+                "close": 32.0724,
+                "close_try": 32.0724,
+                "close_usd": 1.7500081846456,
+                "volume": 1473937816.5
+            },
+            {
+                "update_date": 1663794000,
+                "open": 32.0724,
+                "highest": 33.7268,
+                "lowest": 31.9154,
+                "close": 33.3395,
+                "close_try": 33.3395,
+                "close_usd": 1.8199807845578,
+                "volume": 1681379065.9
+            },
+            {
+                "update_date": 1663880400,
+                "open": 33.3499,
+                "highest": 33.4756,
+                "lowest": 32.0933,
+                "close": 32.1876,
+                "close_try": 32.1876,
+                "close_usd": 1.7479960899316,
+                "volume": 1128170843.7
+            },
+            {
+                "update_date": 1664139600,
+                "open": 32.1667,
+                "highest": 32.2713,
+                "lowest": 30.6379,
+                "close": 31.4861,
+                "close_try": 31.4861,
+                "close_usd": 1.7042451732332,
+                "volume": 1472480456.1
+            },
+            {
+                "update_date": 1664226000,
+                "open": 31.6955,
+                "highest": 31.9363,
+                "lowest": 30.8054,
+                "close": 30.8892,
+                "close_try": 30.8892,
+                "close_usd": 1.6743475079275,
+                "volume": 1338688353.1
+            },
+            {
+                "update_date": 1664312400,
+                "open": 30.7322,
+                "highest": 31.6326,
+                "lowest": 30.6588,
+                "close": 30.8369,
+                "close_try": 30.8369,
+                "close_usd": 1.6652302342033,
+                "volume": 1531978234.5
+            },
+            {
+                "update_date": 1664398800,
+                "open": 31.0043,
+                "highest": 31.7897,
+                "lowest": 29.9782,
+                "close": 30.9416,
+                "close_try": 30.9416,
+                "close_usd": 1.6719947259778,
+                "volume": 1839842762.8
+            },
+            {
+                "update_date": 1664485200,
+                "open": 31.0568,
+                "highest": 31.3186,
+                "lowest": 30.0934,
+                "close": 30.3238,
+                "close_try": 30.3238,
+                "close_usd": 1.6389737159288,
+                "volume": 1487959975
+            },
+            {
+                "update_date": 1664744400,
+                "open": 30.9834,
+                "highest": 33.3499,
+                "lowest": 30.952,
+                "close": 33.3499,
+                "close_try": 33.3499,
+                "close_usd": 1.7978285831343,
+                "volume": 2283884205.6
+            },
+            {
+                "update_date": 1664830800,
+                "open": 34.2399,
+                "highest": 35.7267,
+                "lowest": 34.1144,
+                "close": 35.1299,
+                "close_try": 35.1299,
+                "close_usd": 1.8916332816404,
+                "volume": 2112529900.3
+            },
+            {
+                "update_date": 1664917200,
+                "open": 35.1299,
+                "highest": 36.0619,
+                "lowest": 34.4493,
+                "close": 35.5488,
+                "close_try": 35.5488,
+                "close_usd": 1.9084349768081,
+                "volume": 2766608981.4
+            },
+            {
+                "update_date": 1665003600,
+                "open": 36.2294,
+                "highest": 37.0147,
+                "lowest": 36.1665,
+                "close": 36.3341,
+                "close_try": 36.3341,
+                "close_usd": 1.9551280671545,
+                "volume": 1904804342.9
+            },
+            {
+                "update_date": 1665090000,
+                "open": 36.3341,
+                "highest": 36.6692,
+                "lowest": 36.0095,
+                "close": 36.2713,
+                "close_try": 36.2713,
+                "close_usd": 1.9483938547486,
+                "volume": 1159932292
+            },
+            {
+                "update_date": 1665349200,
+                "open": 36.5435,
+                "highest": 36.8576,
+                "lowest": 36.0828,
+                "close": 36.1248,
+                "close_try": 36.1248,
+                "close_usd": 1.9446609676794,
+                "volume": 1046015427.1
+            },
+            {
+                "update_date": 1665435600,
+                "open": 36.1248,
+                "highest": 36.4807,
+                "lowest": 35.664,
+                "close": 35.9676,
+                "close_try": 35.9676,
+                "close_usd": 1.935323490164,
+                "volume": 1118488105.8
+            },
+            {
+                "update_date": 1665522000,
+                "open": 35.9781,
+                "highest": 36.0828,
+                "lowest": 35.0777,
+                "close": 35.2871,
+                "close_try": 35.2871,
+                "close_usd": 1.9007427995842,
+                "volume": 1270975768.8
+            },
+            {
+                "update_date": 1665608400,
+                "open": 35.2871,
+                "highest": 35.4546,
+                "lowest": 34.3864,
+                "close": 34.6169,
+                "close_try": 34.6169,
+                "close_usd": 1.8671164975756,
+                "volume": 1474306139.3
+            },
+            {
+                "update_date": 1665694800,
+                "open": 35.1928,
+                "highest": 35.5384,
+                "lowest": 34.8159,
+                "close": 34.9833,
+                "close_try": 34.9833,
+                "close_usd": 1.884094422034,
+                "volume": 1727879977.4
+            },
+            {
+                "update_date": 1665954000,
+                "open": 35.9676,
+                "highest": 38.2712,
+                "lowest": 35.9258,
+                "close": 38.2712,
+                "close_try": 38.2712,
+                "close_usd": 2.0598062432723,
+                "volume": 3650106045
+            },
+            {
+                "update_date": 1666040400,
+                "open": 38.533,
+                "highest": 39.1403,
+                "lowest": 37.0252,
+                "close": 37.5697,
+                "close_try": 37.5697,
+                "close_usd": 2.0215609782346,
+                "volume": 3465560399.1
+            },
+            {
+                "update_date": 1666126800,
+                "open": 37.643,
+                "highest": 38.4597,
+                "lowest": 37.245,
+                "close": 37.6954,
+                "close_try": 37.6954,
+                "close_usd": 2.0270812383375,
+                "volume": 3638411289.6
+            },
+            {
+                "update_date": 1666213200,
+                "open": 37.9047,
+                "highest": 38.9518,
+                "lowest": 37.6325,
+                "close": 38.554,
+                "close_try": 38.554,
+                "close_usd": 2.0720381795903,
+                "volume": 4132120697
+            },
+            {
+                "update_date": 1666299600,
+                "open": 38.7424,
+                "highest": 40.177,
+                "lowest": 38.7111,
+                "close": 39.7896,
+                "close_try": 39.7896,
+                "close_usd": 2.1413786979382,
+                "volume": 3311801197.7
+            },
+            {
+                "update_date": 1666558800,
+                "open": 40.3654,
+                "highest": 40.6482,
+                "lowest": 39.5279,
+                "close": 39.9151,
+                "close_try": 39.9151,
+                "close_usd": 2.1479478445237,
+                "volume": 2662525094.9
+            },
+            {
+                "update_date": 1666645200,
+                "open": 39.8105,
+                "highest": 40.2502,
+                "lowest": 39.2137,
+                "close": 39.2137,
+                "close_try": 39.2137,
+                "close_usd": 2.1079461156385,
+                "volume": 2122013587
+            },
+            {
+                "update_date": 1666731600,
+                "open": 39.4544,
+                "highest": 39.8105,
+                "lowest": 38.3236,
+                "close": 38.5225,
+                "close_try": 38.5225,
+                "close_usd": 2.0702228623327,
+                "volume": 2731244096.8
+            },
+            {
+                "update_date": 1666818000,
+                "open": 38.7948,
+                "highest": 39.4649,
+                "lowest": 38.2503,
+                "close": 39.0357,
+                "close_try": 39.0357,
+                "close_usd": 2.0987951029889,
+                "volume": 2753438523.1
+            },
+            {
+                "update_date": 1666904400,
+                "open": 38.9518,
+                "highest": 39.0357,
+                "lowest": 37.8838,
+                "close": 38.2816,
+                "close_try": 38.2816,
+                "close_usd": 2.0603105406205,
+                "volume": 1267281512.6
+            },
+            {
+                "update_date": 1667163600,
+                "open": 38.7424,
+                "highest": 39.8524,
+                "lowest": 38.4388,
+                "close": 39.6848,
+                "close_try": 39.6848,
+                "close_usd": 2.1328460484239,
+                "volume": 2330333554.9
+            },
+            {
+                "update_date": 1667250000,
+                "open": 40.0094,
+                "highest": 41.0146,
+                "lowest": 39.9466,
+                "close": 40.8366,
+                "close_try": 40.8366,
+                "close_usd": 2.1971580912617,
+                "volume": 2485130974.2
+            },
+            {
+                "update_date": 1667336400,
+                "open": 41.0984,
+                "highest": 41.8313,
+                "lowest": 40.9412,
+                "close": 41.3601,
+                "close_try": 41.3601,
+                "close_usd": 2.2215830352251,
+                "volume": 2736053755.5
+            },
+            {
+                "update_date": 1667422800,
+                "open": 43.4543,
+                "highest": 43.7476,
+                "lowest": 42.0513,
+                "close": 42.669,
+                "close_try": 42.669,
+                "close_usd": 2.2922206643137,
+                "volume": 5357750707.7
+            },
+            {
+                "update_date": 1667509200,
+                "open": 42.868,
+                "highest": 45.3811,
+                "lowest": 42.7319,
+                "close": 44.8364,
+                "close_try": 44.8364,
+                "close_usd": 2.4149345857818,
+                "volume": 4285211406.3
+            },
+            {
+                "update_date": 1667768400,
+                "open": 45.3077,
+                "highest": 47.3495,
+                "lowest": 44.5224,
+                "close": 46.9097,
+                "close_try": 46.9097,
+                "close_usd": 2.5388158250798,
+                "volume": 5380755648.5
+            },
+            {
+                "update_date": 1667854800,
+                "open": 47.1715,
+                "highest": 48.0616,
+                "lowest": 46.0511,
+                "close": 46.2815,
+                "close_try": 46.2815,
+                "close_usd": 2.4986502974744,
+                "volume": 4759142667.5
+            },
+            {
+                "update_date": 1667941200,
+                "open": 46.292,
+                "highest": 46.6899,
+                "lowest": 45.0041,
+                "close": 45.1088,
+                "close_try": 45.1088,
+                "close_usd": 2.4267960705409,
+                "volume": 2995626567.1
+            },
+            {
+                "update_date": 1668027600,
+                "open": 45.0982,
+                "highest": 45.9359,
+                "lowest": 44.7004,
+                "close": 45.4123,
+                "close_try": 45.4123,
+                "close_usd": 2.4572026859582,
+                "volume": 2972989786.9
+            },
+            {
+                "update_date": 1668114000,
+                "open": 46.1244,
+                "highest": 46.3653,
+                "lowest": 44.6061,
+                "close": 45.0564,
+                "close_try": 45.0564,
+                "close_usd": 2.4295844140438,
+                "volume": 3596293962
+            },
+            {
+                "update_date": 1668373200,
+                "open": 45.0251,
+                "highest": 45.4858,
+                "lowest": 44.6481,
+                "close": 44.9831,
+                "close_try": 44.9831,
+                "close_usd": 2.4179782407706,
+                "volume": 2202634845.4
+            },
+            {
+                "update_date": 1668459600,
+                "open": 46.072,
+                "highest": 46.4176,
+                "lowest": 45.2449,
+                "close": 45.8103,
+                "close_try": 45.8103,
+                "close_usd": 2.4627207483267,
+                "volume": 3592269525.2
+            },
+            {
+                "update_date": 1668546000,
+                "open": 45.8418,
+                "highest": 46.1768,
+                "lowest": 44.7842,
+                "close": 44.8575,
+                "close_try": 44.8575,
+                "close_usd": 2.4130687380981,
+                "volume": 3178479121
+            },
+            {
+                "update_date": 1668632400,
+                "open": 45.0982,
+                "highest": 45.1716,
+                "lowest": 43.1716,
+                "close": 43.9778,
+                "close_try": 43.9778,
+                "close_usd": 2.3650336111858,
+                "volume": 2821767106.7
+            },
+            {
+                "update_date": 1668718800,
+                "open": 44.114,
+                "highest": 45.6532,
+                "lowest": 44.0931,
+                "close": 44.5644,
+                "close_try": 44.5644,
+                "close_usd": 2.3946995099304,
+                "volume": 2443149943
+            },
+            {
+                "update_date": 1668978000,
+                "open": 44.6375,
+                "highest": 45.7893,
+                "lowest": 44.6375,
+                "close": 45.3182,
+                "close_try": 45.3182,
+                "close_usd": 2.4337669033221,
+                "volume": 2503019709.2
+            },
+            {
+                "update_date": 1669064400,
+                "open": 46.5956,
+                "highest": 49.4437,
+                "lowest": 46.5224,
+                "close": 49.3181,
+                "close_try": 49.3181,
+                "close_usd": 2.6507411826674,
+                "volume": 4474043866.4
+            },
+            {
+                "update_date": 1669150800,
+                "open": 49.4647,
+                "highest": 50.5537,
+                "lowest": 48.7422,
+                "close": 49.3285,
+                "close_try": 49.3285,
+                "close_usd": 2.6491643573715,
+                "volume": 3833719710.2
+            },
+            {
+                "update_date": 1669237200,
+                "open": 49.5589,
+                "highest": 50.1452,
+                "lowest": 48.2186,
+                "close": 48.9725,
+                "close_try": 48.9725,
+                "close_usd": 2.6286338457575,
+                "volume": 3107019216.3
+            },
+            {
+                "update_date": 1669323600,
+                "open": 48.9725,
+                "highest": 49.8625,
+                "lowest": 48.7736,
+                "close": 49.6009,
+                "close_try": 49.6009,
+                "close_usd": 2.661906448566,
+                "volume": 2620232845
+            },
+            {
+                "update_date": 1669582800,
+                "open": 49.6427,
+                "highest": 50.6059,
+                "lowest": 49.2971,
+                "close": 49.2971,
+                "close_try": 49.2971,
+                "close_usd": 2.646696267026,
+                "volume": 3217674660.7
+            },
+            {
+                "update_date": 1669669200,
+                "open": 49.6845,
+                "highest": 50.8155,
+                "lowest": 48.8679,
+                "close": 50.7839,
+                "close_try": 50.7839,
+                "close_usd": 2.7247505097113,
+                "volume": 3582421789.4
+            },
+            {
+                "update_date": 1669755600,
+                "open": 50.7839,
+                "highest": 51.0458,
+                "lowest": 50.2081,
+                "close": 50.3966,
+                "close_try": 50.3966,
+                "close_usd": 2.704870168207,
+                "volume": 3600616901.8
+            },
+            {
+                "update_date": 1669842000,
+                "open": 50.8364,
+                "highest": 51.5693,
+                "lowest": 50.4384,
+                "close": 50.7839,
+                "close_try": 50.7839,
+                "close_usd": 2.7254962995562,
+                "volume": 3738749526.6
+            },
+            {
+                "update_date": 1669928400,
+                "open": 50.8887,
+                "highest": 51.1819,
+                "lowest": 50.0091,
+                "close": 50.3757,
+                "close_try": 50.3757,
+                "close_usd": 2.703371184476,
+                "volume": 2754926731.7
+            },
+            {
+                "update_date": 1670187600,
+                "open": 50.6792,
+                "highest": 51.2029,
+                "lowest": 49.4961,
+                "close": 49.5484,
+                "close_try": 49.5484,
+                "close_usd": 2.6584469446993,
+                "volume": 3261793420.7
+            },
+            {
+                "update_date": 1670274000,
+                "open": 50.1452,
+                "highest": 51.0667,
+                "lowest": 50.1452,
+                "close": 50.5117,
+                "close_try": 50.5117,
+                "close_usd": 2.7106113293408,
+                "volume": 3441992108.4
+            },
+            {
+                "update_date": 1670360400,
+                "open": 50.5537,
+                "highest": 50.5746,
+                "lowest": 48.0301,
+                "close": 48.1662,
+                "close_try": 48.1662,
+                "close_usd": 2.5849804917056,
+                "volume": 3123101040.2
+            },
+            {
+                "update_date": 1670446800,
+                "open": 48.1872,
+                "highest": 48.5223,
+                "lowest": 44.7423,
+                "close": 45.7579,
+                "close_try": 45.7579,
+                "close_usd": 2.4550732102521,
+                "volume": 5583697906.1
+            },
+            {
+                "update_date": 1670533200,
+                "open": 45.8418,
+                "highest": 46.1244,
+                "lowest": 45.1297,
+                "close": 45.7999,
+                "close_try": 45.7999,
+                "close_usd": 2.4569707308699,
+                "volume": 4062702492.7
+            },
+            {
+                "update_date": 1670792400,
+                "open": 45.8627,
+                "highest": 48.072,
+                "lowest": 45.7057,
+                "close": 47.538,
+                "close_try": 47.538,
+                "close_usd": 2.5507461004781,
+                "volume": 3892576741.8
+            },
+            {
+                "update_date": 1670878800,
+                "open": 48.4281,
+                "highest": 49.6321,
+                "lowest": 48.3861,
+                "close": 49.3285,
+                "close_try": 49.3285,
+                "close_usd": 2.6460096767618,
+                "volume": 2859565139.5
+            },
+            {
+                "update_date": 1670965200,
+                "open": 49.7892,
+                "highest": 50.0196,
+                "lowest": 47.3077,
+                "close": 47.3391,
+                "close_try": 47.3391,
+                "close_usd": 2.542092460034,
+                "volume": 3301923257.1
+            },
+            {
+                "update_date": 1671051600,
+                "open": 48.1768,
+                "highest": 48.9621,
+                "lowest": 46.5956,
+                "close": 47.894,
+                "close_try": 47.894,
+                "close_usd": 2.56892445665,
+                "volume": 2735782731
+            },
+            {
+                "update_date": 1671138000,
+                "open": 47.9045,
+                "highest": 48.3024,
+                "lowest": 47.1715,
+                "close": 47.2448,
+                "close_try": 47.2448,
+                "close_usd": 2.5329616126957,
+                "volume": 2231296561.6
+            },
+            {
+                "update_date": 1671397200,
+                "open": 47.6009,
+                "highest": 49.2448,
+                "lowest": 47.6009,
+                "close": 49.1087,
+                "close_try": 49.1087,
+                "close_usd": 2.6331601439134,
+                "volume": 3029362675.7
+            },
+            {
+                "update_date": 1671483600,
+                "open": 49.2657,
+                "highest": 49.8625,
+                "lowest": 48.7107,
+                "close": 49.5484,
+                "close_try": 49.5484,
+                "close_usd": 2.6564657945529,
+                "volume": 3269867877.2
+            },
+            {
+                "update_date": 1671570000,
+                "open": 50.5746,
+                "highest": 50.8678,
+                "lowest": 49.7892,
+                "close": 49.9881,
+                "close_try": 49.9881,
+                "close_usd": 2.678818895528,
+                "volume": 2880354040.8
+            },
+            {
+                "update_date": 1671656400,
+                "open": 50.1558,
+                "highest": 50.7317,
+                "lowest": 49.5275,
+                "close": 49.7474,
+                "close_try": 49.7474,
+                "close_usd": 2.6656914280815,
+                "volume": 2087176967.2
+            },
+            {
+                "update_date": 1671742800,
+                "open": 49.7683,
+                "highest": 51.7159,
+                "lowest": 49.2343,
+                "close": 51.4122,
+                "close_try": 51.4122,
+                "close_usd": 2.7523180367888,
+                "volume": 3213708088.1
+            },
+            {
+                "update_date": 1672002000,
+                "open": 53.1505,
+                "highest": 54.03,
+                "lowest": 52.9095,
+                "close": 53.2761,
+                "close_try": 53.2761,
+                "close_usd": 2.8546681098227,
+                "volume": 3682357897.2
+            },
+            {
+                "update_date": 1672088400,
+                "open": 52.3547,
+                "highest": 53.8939,
+                "lowest": 52.3441,
+                "close": 53.0144,
+                "close_try": 53.0144,
+                "close_usd": 2.8394132045054,
+                "volume": 2751646537.6
+            },
+            {
+                "update_date": 1672174800,
+                "open": 53.1924,
+                "highest": 53.7787,
+                "lowest": 52.0196,
+                "close": 53.0981,
+                "close_try": 53.0981,
+                "close_usd": 2.8378922951941,
+                "volume": 3335984976.2
+            },
+            {
+                "update_date": 1672261200,
+                "open": 53.0981,
+                "highest": 53.5588,
+                "lowest": 52.5745,
+                "close": 53.0352,
+                "close_try": 53.0352,
+                "close_usd": 2.8353033632179,
+                "volume": 2480544837.4
+            },
+            {
+                "update_date": 1672347600,
+                "open": 53.6112,
+                "highest": 56.7316,
+                "lowest": 53.6112,
+                "close": 55.4854,
+                "close_try": 55.4854,
+                "close_usd": 2.9668957035532,
+                "volume": 5538208862.5
+            },
+            {
                 "update_date": 1672606800,
                 "open": 55.9148,
                 "highest": 56.4906,
@@ -6635,12 +9155,152 @@
             {
                 "update_date": 1756760400,
                 "open": 174,
-                "highest": 175.5,
-                "lowest": 173.3,
-                "close": 173.6,
-                "close_try": 173.6,
+                "highest": 175.9,
+                "lowest": 165.6,
+                "close": 170.1,
+                "close_try": 170.1,
                 "close_usd": 0,
-                "volume": 1502220281.3
+                "volume": 6710907404.7
+            },
+            {
+                "update_date": 1756846800,
+                "open": 170.1,
+                "highest": 172.1,
+                "lowest": 168.2,
+                "close": 170.9,
+                "close_try": 170.9,
+                "close_usd": 0,
+                "volume": 3911692384.8
+            },
+            {
+                "update_date": 1756933200,
+                "open": 170.9,
+                "highest": 172.3,
+                "lowest": 167.9,
+                "close": 168.8,
+                "close_try": 168.8,
+                "close_usd": 0,
+                "volume": 3524437571.5
+            },
+            {
+                "update_date": 1757019600,
+                "open": 169.6,
+                "highest": 171.3,
+                "lowest": 166.5,
+                "close": 167.5,
+                "close_try": 167.5,
+                "close_usd": 0,
+                "volume": 2527778242.6
+            },
+            {
+                "update_date": 1757278800,
+                "open": 165.8,
+                "highest": 167,
+                "lowest": 163.3,
+                "close": 165.9,
+                "close_try": 165.9,
+                "close_usd": 0,
+                "volume": 2649710597.1
+            },
+            {
+                "update_date": 1757365200,
+                "open": 166,
+                "highest": 171.5,
+                "lowest": 166,
+                "close": 168.3,
+                "close_try": 168.3,
+                "close_usd": 0,
+                "volume": 4189122682
+            },
+            {
+                "update_date": 1757451600,
+                "open": 169.2,
+                "highest": 170.6,
+                "lowest": 166,
+                "close": 170.5,
+                "close_try": 170.5,
+                "close_usd": 0,
+                "volume": 2912240827.9
+            },
+            {
+                "update_date": 1757538000,
+                "open": 170.5,
+                "highest": 179,
+                "lowest": 169.8,
+                "close": 175,
+                "close_try": 175,
+                "close_usd": 0,
+                "volume": 6380559168
+            },
+            {
+                "update_date": 1757624400,
+                "open": 174.6,
+                "highest": 176.1,
+                "lowest": 172,
+                "close": 173.4,
+                "close_try": 173.4,
+                "close_usd": 0,
+                "volume": 3849984182.2
+            },
+            {
+                "update_date": 1757883600,
+                "open": 173.4,
+                "highest": 184.1,
+                "lowest": 171.5,
+                "close": 183.7,
+                "close_try": 183.7,
+                "close_usd": 0,
+                "volume": 6325065522.8
+            },
+            {
+                "update_date": 1757970000,
+                "open": 184.4,
+                "highest": 189.7,
+                "lowest": 182.4,
+                "close": 189,
+                "close_try": 189,
+                "close_usd": 0,
+                "volume": 5095300232.2
+            },
+            {
+                "update_date": 1758056400,
+                "open": 189,
+                "highest": 190.8,
+                "lowest": 187.5,
+                "close": 190.2,
+                "close_try": 190.2,
+                "close_usd": 0,
+                "volume": 2709977704.4
+            },
+            {
+                "update_date": 1758142800,
+                "open": 191,
+                "highest": 194.4,
+                "lowest": 190.1,
+                "close": 191.4,
+                "close_try": 191.4,
+                "close_usd": 0,
+                "volume": 3560056356
+            },
+            {
+                "update_date": 1758229200,
+                "open": 191.4,
+                "highest": 195,
+                "lowest": 190.3,
+                "close": 195,
+                "close_try": 195,
+                "close_usd": 0,
+                "volume": 3730182090.1
+            },
+            {
+                "update_date": 1758488400,
+                "open": 197.5,
+                "highest": 200.2,
+                "lowest": 195.7,
+                "close": 195.7,
+                "close_try": 195.7,
+                "close_usd": 0,
+                "volume": 3421692544.6
             }
         ]
     }
